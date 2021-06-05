@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/aniketdixit/Documents/new_project_near/near-protocol-contracts/client/target/debug/build/typenum-c8b99d26b7374e00/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/aniketdixit/Documents/new_project_near/near-protocol-contracts/client/target/debug/build/typenum-c8b99d26b7374e00/out/op.rs
