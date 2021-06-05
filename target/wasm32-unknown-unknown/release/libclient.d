@@ -1,0 +1,1 @@
+/home/aniketdixit/Documents/new_project_near/near-protocol-contracts/client/target/wasm32-unknown-unknown/release/libclient.rlib: /home/aniketdixit/Documents/new_project_near/near-protocol-contracts/client/src/lib.rs ./Cargo.toml ./build.rs ./src/imp_static_array.rs ./src/lib.rs

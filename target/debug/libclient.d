@@ -1,0 +1,1 @@
+/home/aniketdixit/Documents/new_project_near/near-protocol-contracts/new_contract/target/debug/libclient.so: /home/aniketdixit/Documents/new_project_near/near-protocol-contracts/new_contract/src/lib.rs ./Cargo.toml ./build.rs ./src/imp_static_array.rs ./src/lib.rs
