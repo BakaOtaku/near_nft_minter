@@ -1,3 +1,6 @@
+#### NEAR Dao Link - https://www.sputnik.fund/#/dao/dydonate.sputnikdao.near/proposals/0
+#### NEAR Forum Link - https://gov.near.org/t/github-submission-minting-dynamic-nfts-for-donors-to-india-crypto-relief-fund-using-chainlink-and-near/2722
+
 <p align="center"><img src="https://user-images.githubusercontent.com/42104907/120896987-aa768500-c641-11eb-9b43-1a48ced94c3f.png" align="center" width="450"></p>
 <h1 align="center">Near Nft Minter</h1>
 <h6 align="center">Minting dynamic NFTs for donors to India Crypto Relief Fund using Chainlink and Near</h6>
