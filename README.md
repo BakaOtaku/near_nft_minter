@@ -1,7 +1,4 @@
-#### Github submission Dao Link - https://www.sputnik.fund/#/dao/nft-onboarding.sputnikdao.near/proposals/82
-#### Project Video Dao Link - https://www.sputnik.fund/#/dao/nft-onboarding.sputnikdao.near/proposals/81
-#### Project presentation Dao Link - https://www.sputnik.fund/#/dao/nft-onboarding.sputnikdao.near/proposals/80
-#### Project Ideation Dao Link - https://www.sputnik.fund/#/dao/nft-onboarding.sputnikdao.near/proposals/79
+#### Github submission Dao Link - https://www.sputnik.fund/#/dao/generative-art.sputnikdao.near/proposals/15
 #### NEAR Forum Link - https://gov.near.org/t/github-submission-minting-dynamic-nfts-for-donors-to-india-crypto-relief-fund-using-chainlink-and-near/2722
 
 <p align="center"><img src="https://user-images.githubusercontent.com/42104907/120896987-aa768500-c641-11eb-9b43-1a48ced94c3f.png" align="center" width="450"></p>
